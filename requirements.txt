@@ -1,0 +1,10 @@
+dlib
+face-recognition
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+streamlit 
+plotly.express
+plotly.graph_objects

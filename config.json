@@ -1,0 +1,6 @@
+{
+    "tolerance": 0.6,
+    "frame_skip": 5,
+    "min_face_size": 50,
+    "confidence_threshold": 0.5
+}
