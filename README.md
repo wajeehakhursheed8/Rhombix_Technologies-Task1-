@@ -64,5 +64,4 @@ numpy==1.24.3
 pillow==10.0.0
 plotly==5.15.0
 
-License
-This project is licensed under the MIT License.
+
