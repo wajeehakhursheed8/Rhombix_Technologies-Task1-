@@ -1,7 +1,6 @@
-
-dlib
-face-recognition
+cmake
 opencv-python-headless
+face-recognition
 numpy
 pandas
 matplotlib
